@@ -1,5 +1,5 @@
-# coursera-getting-and-cleaning-the-data-project
-This is thee final project for the Getting and Cleaning the Data course on Coursera.
+# Final Project: JHU's Getting and Cleaning the Data on Coursera 
+This is the final project for the Getting and Cleaning the Data course on Coursera.
 
 In this project, the data collected from the accelerometers from the Samsung Galaxy S smartphone was cleaned to prepare a tidy dataset ready for further analysis.
 
